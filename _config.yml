@@ -30,8 +30,8 @@ force-https: True
 
 lang: "en"
 author: "Joseph Opacki"
-title: "{ code | beer | food | travel }"
-description: "Blog and website of Joseph Opacki, blogging mainly for tech. Opinions expressed are mine."
+title: "opacki.me"
+description: "Blog and website of Joseph Opacki, blogging mainly for tech, beverage, food, and wonder of the world. Opinions expressed are mine."
 keywords: "joseph opacki, opacki, getchester, malware, reverse engineering, computer forensics, python, personal"
 favicon: "/img/favicon.ico"
 
@@ -39,7 +39,7 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+# black-favicon: "/img/black-lab-glass.ico"
 
 background-img: "../img/intro-bg.jpg"
 
@@ -52,11 +52,18 @@ shuffle: True # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
-start-delay: 200
+start-delay: 100
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "code"
+  - text: "hack"
+  - text: "program"
+  - text: "beer"
+  - text: "drink"
+  - text: "food"
+  - text: "eat"
+  - text: "travel"
+  - text: "live"
 
 me-img: "/img/jetpacktocat.png"
 
@@ -114,9 +121,11 @@ events:
   - image: "/img/timeline/spidertocat.png"
     date: "September 2013 - Today"
     description: "Saving the neighborhood!"
+    link: "http://joseph.opacki.me"
   - image: "/img/timeline/baracktocat.jpg"
     date: "September 2007 - August 2013"
     description: "Started coding"
+    link: "http://joseph.opacki.me"
 
 # First image of the Timeline
 
