@@ -55,23 +55,17 @@ type-speed: 10
 start-delay: 100
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "code"
-  - text: "hack"
-  - text: "program"
-  - text: "beer"
-  - text: "drink"
-  - text: "food"
-  - text: "eat"
-  - text: "travel"
-  - text: "live"
+  - text: "code. program. hack."
+  - text: "beer. drink. food. eat."
+  - text: "travel. explore. live."
 
 me-img: "/img/jetpacktocat.png"
 
 ##############################
 # Color the browser elements #
 ##############################
-color-browser: "#000000"
-apple-status-bar-style: "black"
+color-browser: "#FFFFFF"
+apple-status-bar-style: "white"
 
 ################
 # Web app mode #
