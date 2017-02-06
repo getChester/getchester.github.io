@@ -55,9 +55,21 @@ type-speed: 10
 start-delay: 100
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "code. program. hack."
-  - text: "beer. drink. food. eat."
-  - text: "travel. explore. live."
+  - text: "System.Console.WriteLine('Code. Program. Hack. Eat. Drink. Travel. Explore. Live.');"
+  - text: "print('Code. Program. Hack. Eat. Drink. Travel. Explore. Live.')"
+  - text: "puts('Code. Program. Hack. Eat. Drink. Travel. Explore. Live.');"
+  - text: "print 'Code. Program. Hack. Eat. Drink. Travel. Explore. Live.'"
+  - text: "printf('Code. Program. Hack. Eat. Drink. Travel. Explore. Live.')"
+  - text: "MessageBox(GetActiveWindow(), 'Code. Program. Hack. Eat. Drink. Travel. Explore. Live.', MB_OK);"
+  - text: "std::cout << 'Code. Program. Hack. Eat. Drink. Travel. Explore. Live.' << std::endl;"
+  - text: "MESSAGE('Code. Program. Hack. Eat. Drink. Travel. Explore. Live.')"
+  - text: "NSLog(@'Code. Program. Hack. Eat. Drink. Travel. Explore. Live.');"
+  - text: "alert 'Code. Program. Hack. Eat. Drink. Travel. Explore. Live.'"
+  - text: "<cfoutput>Code. Program. Hack. Eat. Drink. Travel. Explore. Live.</cfoutput>"
+  - text: "System.out.println( 'Code. Program. Hack. Eat. Drink. Travel. Explore. Live.' );"
+  - text: "<?php echo 'Code. Program. Hack. Eat. Drink. Travel. Explore. Live.'; ?>"
+  
+
 
 me-img: "/img/me.jpg"
 
