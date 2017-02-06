@@ -32,7 +32,7 @@ lang: "en"
 author: "Joseph Opacki"
 title: "opacki.me"
 description: "Blog and website of Joseph Opacki, blogging mainly for tech, beverage, food, and wonder of the world. Opinions expressed are mine."
-keywords: "joseph opacki, opacki, getchester, malware, reverse engineering, computer forensics, python, personal"
+keywords: "joseph opacki, opacki, getchester, malware, reverse engineering, computer forensics, python, personal, Code, Program, Hack, Eat, Drink, Travel, Explore, Live"
 favicon: "/img/favicon.ico"
 
 ################
@@ -55,21 +55,16 @@ type-speed: 10
 start-delay: 100
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "System.Console.WriteLine('Code. Program. Hack. Eat. Drink. Travel. Explore. Live.');"
-  - text: "print('Code. Program. Hack. Eat. Drink. Travel. Explore. Live.')"
-  - text: "puts('Code. Program. Hack. Eat. Drink. Travel. Explore. Live.');"
-  - text: "print 'Code. Program. Hack. Eat. Drink. Travel. Explore. Live.'"
-  - text: "printf('Code. Program. Hack. Eat. Drink. Travel. Explore. Live.')"
-  - text: "MessageBox(GetActiveWindow(), 'Code. Program. Hack. Eat. Drink. Travel. Explore. Live.', MB_OK);"
-  - text: "std::cout << 'Code. Program. Hack. Eat. Drink. Travel. Explore. Live.' << std::endl;"
-  - text: "MESSAGE('Code. Program. Hack. Eat. Drink. Travel. Explore. Live.')"
-  - text: "NSLog(@'Code. Program. Hack. Eat. Drink. Travel. Explore. Live.');"
-  - text: "alert 'Code. Program. Hack. Eat. Drink. Travel. Explore. Live.'"
-  - text: "<cfoutput>Code. Program. Hack. Eat. Drink. Travel. Explore. Live.</cfoutput>"
-  - text: "System.out.println( 'Code. Program. Hack. Eat. Drink. Travel. Explore. Live.' );"
-  - text: "<?php echo 'Code. Program. Hack. Eat. Drink. Travel. Explore. Live.'; ?>"
-  
-
+  - text: "System.Console.WriteLine('Klaatu barada nikto.');"
+  - text: "print('I’m sorry, Dave. I’m afraid I can’t do that.')"
+  - text: "puts('I’ve seen things you people wouldn’t believe.');"
+  - text: "print 'The needs of the many outweigh … the needs of the few… Or the one.'"
+  - text: "printf('E.T. phone home.')"
+  - text: "MessageBox(GetActiveWindow(), 'Do… or do not. There is no try.', MB_OK);"
+  - text: "MESSAGE('My name is Inigo Montoya. You killed my father. Prepare to die..')"
+  - text: "NSLog(@'Mom! Dad! It’s evil! Don’t touch it!.');"
+  - text: "alert 'Time is an illusion. Lunchtime doubly so.'"
+  - text: "System.out.println( 'I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration..' );"
 
 me-img: "/img/me.jpg"
 
