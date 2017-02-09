@@ -8,7 +8,7 @@ tags: [ 'space', 'NASA', 'shuttle', 'discovery' ]
 
 As I left for the airport yesterday morning, I was excited to find out that I might be privileged enough to see the Shuttle Discovery land in our area.  As I made my way to the airport I was surprised to see the number of people who had parked along the road reaching all the way from the exit to 28 North in Centreville from I-66 and along the ten mile march into the airport.  
 
-![Route 28 North Near Dulles Airport]({{ site.url }}/img/assets/route28.jpg)
+![Route 28 North Near Dulles Airport](https://raw.githubusercontent.com/getChester/getchester.github.io-src/master/img/route28.jpg)
 
 I continued into the airport and much to my surprise I was able to make out a speck along the skyline swiftly approaching the airport.  This was it and I was excited!  My footage is not the best but I managed to wrestle my cellphone from my bag just in time to document a truly historic event that I wished to share with you.
 
