@@ -58,13 +58,13 @@ lines: # You can add HTML Tags in the Text
   - text: "System.Console.WriteLine('Klaatu barada nikto.');"
   - text: "print('I’m sorry, Dave. I’m afraid I can’t do that.')"
   - text: "puts('I’ve seen things you people wouldn’t believe.');"
-  - text: "print 'The needs of the many outweigh … the needs of the few… Or the one.'"
-  - text: "printf('E.T. phone home.')"
-  - text: "MessageBox(GetActiveWindow(), 'Do… or do not. There is no try.', MB_OK);"
-  - text: "MESSAGE('My name is Inigo Montoya. You killed my father. Prepare to die..')"
+  - text: "print 'The needs of the many outweigh... the needs of the few...Or the one.'"
+  - text: "printf('TEST')"
+  - text: "MessageBox(GetActiveWindow(), 'Do... or do not. There is no try.', MB_OK);"
+  - text: "MESSAGE('TEST')"
   - text: "NSLog(@'Mom! Dad! It’s evil! Don’t touch it!.');"
   - text: "alert 'Time is an illusion. Lunchtime doubly so.'"
-  - text: "System.out.println( 'I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration..' );"
+  - text: "System.out.println( 'I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration.' );"
 
 me-img: "/img/me.jpg"
 
