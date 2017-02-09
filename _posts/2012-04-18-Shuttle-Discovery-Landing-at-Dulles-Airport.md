@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Shuttle Discovery Landing at Dulles Airport
-category: tech
+category: space
 tags: [ 'space', 'NASA', 'shuttle', 'discovery' ]
 ---
 

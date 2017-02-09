@@ -95,7 +95,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 enable-gesture-navigation: True
 
-post-preview-words: 96
+post-preview-words: 144
 
 paginate: 5
 
@@ -119,18 +119,50 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-    link: "http://joseph.opacki.me"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
-    link: "http://joseph.opacki.me"
+  - image: "/img/timeline/hsw.png"
+    date: "January 6, 2017"
+    description: "Why Ransomware Is the Perfect Hack"
+    link: "http://now.howstuffworks.com/2017/01/06/why-ransomware-is-perfect-hack"
+  - image: "/img/timeline/fedscoop.png"
+    date: "September 7, 2016"
+    description: "FTC chief: Ransomware is the most profitable malware ever devised"
+    link: "https://www.fedscoop.com/ftc-chief-ransomware-malware-september-2016/"
+  - image: "/img/timeline/prweb.png"
+    date: "August 24, 2016"
+    description: "PhishLabs VP of Threat Research Joseph Opacki to Speak at Federal Trade Commission Event on Ransomware, Sept. 7 in Washington, D.C."
+    link: "http://www.prweb.com/releases/2016/08/prweb13629921.htm"
+  - image: "/img/timeline/darkreading.jpg"
+    date: "June 21, 2016"
+    description: "Phishing, Whaling & The Surprising Importance Of Privileged Users"
+    link: "http://www.darkreading.com/endpoint/phishing-whaling-and-the-surprising-importance-of-privileged-users/a/d-id/1325991?utm_content=32196563&utm_medium=social&utm_source=twitter"
+  - image: "/img/timeline/instinv.jpg"
+    date: "May 13, 2016"
+    description: "Banks Urged to Step Up Vigilance in Wake of Bangladesh Hack"
+    link: "http://www.institutionalinvestor.com/article/3554362/banking-and-capital-markets-trading-and-technology/banks-urged-to-step-up-vigilance-in-wake-of-bangladesh-hack.html?ArticleId=3554362#/.WJwUc384Tbl"
+  - image: "/img/timeline/macworld.gif"
+    date: "March 7, 2016"
+    description: "PhishLabs on the growing sophistication of business email scams"
+    link: "http://www.macworld.com/video/63026/phishlabs-on-the-growing-sophistication-of-business-email-scams"
+  - image: "/img/timeline/bis.jpg"
+    date: "November 30, 2015"
+    description: "Business Email Compromise Attacks Rapidly Evolving"
+    link: "http://www.bankinfosecurity.com/interviews/business-email-compromise-attacks-rapidly-evolving-i-3000"
+  - image: "/img/timeline/bis.jpg"
+    date: "October 26, 2015"
+    description: "CISO's Guide to Spear Phishing Defense"
+    link: "http://www.bankinfosecurity.com/interviews/cisos-guide-to-spear-phishing-defense-i-2966"
+  - image: "/img/timeline/issa.png"
+    date: "June 28, 2011"
+    description: "The Changing Face of Malware"
+    link: "http://www.issa.org/?page=June2011"
+  - image: "/img/timeline/scmedia.jpg"
+    date: "February 17, 2011"
+    description: "RSA Conference 2011: Smartphone threats imminent, security lacking"
+    link: "http://www.scmagazine.com/rsa-conference-2011-smartphone-threats-imminent-security-lacking/article/196563/"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/me.jpg"
 
 ###########
 # Contact #
