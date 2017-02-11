@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Joseph Opacki"
-title: "opacki.me"
+title: "joseph.opacki.me"
 description: "Blog and website of Joseph Opacki, blogging mainly for tech, beverage, food, and wonder of the world. Opinions expressed are mine."
 keywords: "joseph opacki, opacki, getchester, malware, reverse engineering, computer forensics, python, personal, Code, Program, Hack, Eat, Drink, Travel, Explore, Live"
 favicon: "/img/favicon.ico"
@@ -40,14 +40,13 @@ favicon: "/img/favicon.ico"
 ################
 
 # black-favicon: "/img/black-lab-glass.ico"
-
 background-img: "../img/intro-bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
 ##############################
 
-dynamic-typing: True
+dynamic-typing: False
 shuffle: True # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
@@ -93,18 +92,18 @@ icon-192p: "/img/web-app/icon-192p.png"
 # Blog #
 ########
 
-enable-gesture-navigation: True
+enable-gesture-navigation: False
 
-post-preview-words: 144
+post-preview-words: 200
 
 paginate: 5
 
 email-share: True
-fb-share: False
+fb-share: True
 twitter-share: True
 linkedin-share: True
 reddit-share: True
-google-plus-share: False
+google-plus-share: True
 tumblr-share: False
 pinterest-share: False
 pocket-share: False
@@ -119,10 +118,34 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/bis.jpg"
+    date: "February 8, 2017"
+    description: "Phisher Refrain: We Will Crypto-Lock You"
+    link: "http://www.bankinfosecurity.com/phisher-refrain-we-will-crypto-lock-you-a-9676"
+  - image: "/img/timeline/yahoo.jpg"
+    date: "February 7, 2017"
+    description: "PhishLabs Releases 2017 Phishing Trends & Intelligence Report, Revealing Profound Shift in Who is Targeted and Why"
+    link: "http://finance.yahoo.com/news/phishlabs-releases-2017-phishing-trends-130500535.html"
   - image: "/img/timeline/hsw.png"
     date: "January 6, 2017"
     description: "Why Ransomware Is the Perfect Hack"
     link: "http://now.howstuffworks.com/2017/01/06/why-ransomware-is-perfect-hack"
+  - image: "/img/timeline/pc.png"
+    date: "December 8, 2016"
+    description: "After Mount Pleasant police hit by ransomware attack, experts say take precautions"
+    link: "http://www.postandcourier.com/news/after-mount-pleasant-police-hit-by-ransomware-attack-experts-say/article_33c2387e-c249-11e6-b8a0-37e84ee1fd3d.html"
+  - image: "/img/timeline/bsides.png"
+    date: "November 10, 2016"
+    description: "Security BSides Charleston - Keynote"
+    link: "https://youtu.be/_647rIK1EbM"
+  - image: "/img/timeline/pc.png"
+    date: "September 22, 2016"
+    description: "Cybersecurity experts: Yahoo hack poses risk beyond initial breach"
+    link: "http://www.postandcourier.com/business/cybersecurity-experts-yahoo-hack-poses-risk-beyond-initial-breach/article_84ba0dc5-58b0-5990-975c-785df7087fbc.html"
+  - image: "/img/timeline/ftc.jpg"
+    date: "September 7, 2016"
+    description: "Federal Trade Commission Fall Technology Series: Ransomware"
+    link: "https://www.ftc.gov/news-events/audio-video/video/fall-technology-series-ransomware-part-1"
   - image: "/img/timeline/fedscoop.png"
     date: "September 7, 2016"
     description: "FTC chief: Ransomware is the most profitable malware ever devised"
@@ -139,6 +162,10 @@ events:
     date: "May 13, 2016"
     description: "Banks Urged to Step Up Vigilance in Wake of Bangladesh Hack"
     link: "http://www.institutionalinvestor.com/article/3554362/banking-and-capital-markets-trading-and-technology/banks-urged-to-step-up-vigilance-in-wake-of-bangladesh-hack.html?ArticleId=3554362#/.WJwUc384Tbl"
+  - image: "/img/timeline/cw.jpg"
+    date: "April 22, 2016"
+    description: "The CyberWire Daily Podcast"
+    link: "https://thecyberwire.com/podcasts/cw-podcasts-daily-2016-04-22.html"
   - image: "/img/timeline/macworld.gif"
     date: "March 7, 2016"
     description: "PhishLabs on the growing sophistication of business email scams"
@@ -178,7 +205,7 @@ email: "joseph@opacki.me"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "This is brought to you by the letter 'O' and the number eleven!"
+#author_blurb: "This is brought to you by the letter 'O' and the number eleven!"
 #author_blurb_image: "/img/author.png"
 
 ##################
@@ -201,7 +228,7 @@ social:
 # 404 page #
 ############
 
-err-404-img: "/img/labtocat.png"
+err-404-img: "/img/me.jpg"
 
 ##################
 # GPG on Keybase #
@@ -220,7 +247,7 @@ keybase-in-footer: True
 pages_list:
   About: 'about'
   Blog: 'latest-post'
-  Timeline: 'timeline'
+  Media Mentions: 'timeline'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
