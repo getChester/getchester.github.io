@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://joseph.opacki.me"
+url: "http://opacki.me"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -22,7 +22,7 @@ google-tracking-id: "UA-30113753-1"
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
 
-force-https: True
+force-https: False
 
 #############
 # HTML Head #
@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Joseph Opacki"
-title: "joseph.opacki.me"
+title: "opacki.me"
 description: "Blog and website of Joseph Opacki, blogging mainly for tech, beverage, food, and wonder of the world. Opinions expressed are mine."
 keywords: "joseph opacki, opacki, getchester, malware, reverse engineering, computer forensics, python, personal, Code, Program, Hack, Eat, Drink, Travel, Explore, Live"
 favicon: "/img/favicon.ico"
@@ -96,7 +96,7 @@ enable-gesture-navigation: False
 
 post-preview-words: 200
 
-paginate: 5
+paginate: 10
 
 email-share: True
 fb-share: True
