@@ -110,6 +110,10 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/cso.jpg"
+    date: "March 23, 2017"
+    description: "IRS makes tax refund scams harder but W-2 phishing attacks continue unabated"
+    link: "http://www.csoonline.com/article/3183537/security/irs-makes-tax-refund-scams-harder-but-w-2-phishing-attacks-continue-unabated.html"
   - image: "/img/timeline/cdm.png"
     date: "February 22, 2017"
     description: "Phishing: A Changing Business Model for a Rampant Problem"
