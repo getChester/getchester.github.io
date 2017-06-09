@@ -110,6 +110,14 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/hitech.png"
+    date: "May 23, 2017"
+    description: "Healthcare Industry Cyber Security Woes Will Worsen Before Getting Better"
+    link: "https://www.hitechanswers.net/healthcare-industry-cyber-security-woes-will-worsen-getting-better/"
+  - image: "/img/timeline/pc.png"
+    date: "May 21, 2017"
+    description: "Charleston hospitals tout secure systems, but are warned to be wary of ransomware"
+    link: "http://www.postandcourier.com/features/charleston-hospitals-tout-secure-systems-but-are-warned-to-be/article_ce33380c-3c8a-11e7-ac5f-db6472bfb3bc.html"
   - image: "/img/timeline/cso.jpg"
     date: "March 23, 2017"
     description: "IRS makes tax refund scams harder but W-2 phishing attacks continue unabated"
