@@ -106,10 +106,14 @@ disqus-shortname: "getchester"
 syntax-highlight: True
 
 ############
-# Timeline #
+# Timeline #  
 ############
 
 events:
+  - image: "/img/timeline/isaca.png"
+    date: "August 1, 2017"
+    description: "Building a Security Culture: Why Security Awareness Does Not Work and What to Do Instead"
+    link: "https://www.isaca.org/Journal/archives/2017/Volume-4/Pages/default.aspx"
   - image: "/img/timeline/hitech.png"
     date: "May 23, 2017"
     description: "Healthcare Industry Cyber Security Woes Will Worsen Before Getting Better"
