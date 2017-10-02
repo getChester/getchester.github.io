@@ -110,10 +110,14 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/fox24.jpg"
+    date: "September 27, 2017"
+    description: "Charleston’s Defense and Cyber Security Sectors Are Booming"
+    link: "http://foxcharleston.com/news-now/charlestons-defense-and-cyber-security-sectors-are-booming/"
   - image: "/img/timeline/isaca.png"
     date: "August 1, 2017"
-    description: "Building a Security Culture: Why Security Awareness Does Not Work and What to Do Instead"
-    link: "https://www.isaca.org/Journal/archives/2017/Volume-4/Pages/default.aspx"
+    description: "Building a Security Culture: Why Security Awareness Does Not Work and What to Do Instead (PDF)"
+    link: "/securityCulture.pdf"
   - image: "/img/timeline/hitech.png"
     date: "May 23, 2017"
     description: "Healthcare Industry Cyber Security Woes Will Worsen Before Getting Better"
